@@ -8,4 +8,5 @@
   * npm run mocks
 
 ### 실행 시 permission denied 이슈 발생시 해결 방법
-* 프로젝트의 node_modules 와 package_lock.json 지우고 npm i --D @mocks-server/main 를 실행하여 재 설치
+* 각 로컬의 환경에 따라 설치된 Mocks Server npm 환경이 불일치에 의한 이슈입니다.
+* 프로젝트의 node_modules 와 package_lock.json 지우고 npm i --D @mocks-server/main 를 실행하여 재 설치해주시기 바랍니다.

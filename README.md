@@ -1,5 +1,7 @@
-## mocks server node
+## mocks server(nodejs)
 * 가상의 mocks 서버를 이용하여 api 테스트 및 서버 성능 테스트를 위한 프로젝트
+* nodejs 기반 api 서버 입니다.
+* [MocksServer 설치 사이트](https://www.mocks-server.org/docs/quick-start/)
 
 ### 실행 방법
 * 실행 명령어
